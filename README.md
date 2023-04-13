@@ -10,4 +10,4 @@ Liste üzerinden herhangi emojiye tıklandığında, ilgili emojinin kopyalandı
 
 Ekran Çıktısı:
 
-<img src="./src/img/task4.jpg" alt="alt text" width="100" height="180">
+<img src="./src/img/task4.jpg" alt="alt text" width="300" height="180">
